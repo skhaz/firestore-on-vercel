@@ -1,0 +1,1 @@
+See [Accessing Google Firestore on Vercel](https://nullonerror.org/2021/06/13/accessing-google-firestore-on-vercel/) for more details.
